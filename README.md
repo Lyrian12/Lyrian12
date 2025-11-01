@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyrian12&show_icons=true&locale=en&layout=compact" alt="lyrian12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyrian12&show_icons=true&locale=en" alt="lyrian12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyrian12&show_icons=true&locale=en" alt="lyrian12" color="gray"/></p>
