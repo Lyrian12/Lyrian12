@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **school projects**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Spring Ecosystem**
 
 - 💬 Ask me about **technology,tricks**
 
